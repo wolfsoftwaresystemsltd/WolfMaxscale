@@ -1,4 +1,8 @@
-# MaxScale by MariaDB Corporation
+# MaxScale by MariaDB Corporation (WOlf Software Systems Ltd modified version)
+
+This is the version we use to run Wolf Territories Grid.
+
+# Mariadb Standard stuff below
 
 The MariaDB Corporation MaxScale is an intelligent proxy that allows
 forwarding of database statements to one or more database servers using
